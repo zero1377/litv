@@ -210,3 +210,12 @@ curl -sS "https://YOUR_PROJECT.vercel.app/api/api" \
 ---
 
 تمام.
+
+---
+DONATE
+
+usdt (trc20)
+TL9y6ejgFPgL8w1SyHuXCZbDrnUW4SXbEu
+
+TON
+UQC7PDo_Lw7a0R26KA9DMeTd5c1XY6NIDIpqzckfi326RROO
